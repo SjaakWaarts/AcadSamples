@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AModelerSampleMgd]
+"LOADCTRLS"=dword:0000000e
+"LOADER"="C:\\Program Files\\AutoCAD Architecture 2010\\AModelerSampleMgd.dll"
+"DESCRIPTION"="ACA.NET AModeler Sample"
+"MANAGED"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AModelerSampleMgd\Commands]
+"AModelerSample"="AModelerSample"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AModelerSampleMgd\Extensions]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AModelerSampleMgd\Groups]

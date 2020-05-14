@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilerSample</name>
+    </assembly>
+    <members>
+        <member name="M:filer.TestFiler.filer">
+            Defines a command which prompt a message on the AutoCAD command line
+        </member>
+        <member name="M:filer.MyFiler.ReadAddress">
+             _____________________  Data Reading    _____________________
+        </member>
+        <member name="M:filer.MyFiler.WriteAddress(System.IntPtr)">
+             _____________________  Data Writing    _____________________
+        </member>
+    </members>
+</doc>

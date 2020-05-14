@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecProjectBaseSampleMgd]
+"LOADCTRLS"=dword:0000000e
+"LOADER"="C:\\Program Files\\AutoCAD Architecture 2010\\AecProjectBaseSampleMgd.dll"
+"DESCRIPTION"="ACA.NET ProjectBase sample"
+"MANAGED"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecProjectBaseSampleMgd\Commands]
+"ProjectSample"="ProjectSample"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecProjectBaseSampleMgd\Extensions]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecProjectBaseSampleMgd\Groups]

@@ -1,0 +1,23 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertySampleMgd]
+"LOADCTRLS"=dword:0000000e
+"LOADER"="C:\\Program Files\\AutoCAD Architecture 2010\\AecPropertySampleMgd.dll"
+"DESCRIPTION"="AutoCAD Architecture .NET API Property Data sample"
+"MANAGED"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertySampleMgd\Commands]
+"PropertyQuery"="PropertyQuery"
+"ListPropertySetDefByName"="ListPropertySetDefByName"
+"CreatePropertySetDef"="CreatePropertySetDef"
+"FindPropertySetByNameOnObject"="FindPropertySetByNameOnObject"
+"GetPropSetDefIdFromPropertyName"="GetPropSetDefIdFromPropertyName"
+"GetPropertyDataByName"="GetPropertyDataByName"
+"SetPropertyDataByName"="SetPropertyDataByName"
+"CreatePropSetOnDBObject"="CreatePropSetOnDBObject"
+"CreatePropSetDefAuto"="CreatePropSetDefAuto"
+"CreatePropSetDefAutoDup"="CreatePropSetDefAutoDup"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertySampleMgd\Extensions]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertySampleMgd\Groups]

@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertyGridMgd]
+"LOADCTRLS"=dword:0000000e
+"LOADER"="C:\\Program Files\\AutoCAD Architecture 2010\\AecPropertyGridMgd.dll"
+"DESCRIPTION"="ACA.NET Property Grid sample"
+"MANAGED"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertyGridMgd\Commands]
+"PropertyGrid"="PropertyGrid"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertyGridMgd\Extensions]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecPropertyGridMgd\Groups]

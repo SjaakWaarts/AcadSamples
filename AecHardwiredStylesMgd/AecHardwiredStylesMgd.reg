@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecHardwiredStylesMgd]
+"LOADCTRLS"=dword:0000000e
+"LOADER"="C:\\Program Files\\AutoCAD Architecture 2010\\AecHardwiredStylesMgd.dll"
+"DESCRIPTION"="ACA.NET Hardwired Styles sample"
+"MANAGED"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecHardwiredStylesMgd\Commands]
+"Hardwired"="Hardwired"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecHardwiredStylesMgd\Extensions]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8004:409\Applications\AecHardwiredStylesMgd\Groups]
